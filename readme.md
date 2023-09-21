@@ -48,7 +48,7 @@ This project aims to develop skills in using Apache Airflow, focusing on its dif
 
 ### Final log output:
 
-![HTTP Connection Screenshot](//screenshots/output.png)
+![HTTP Connection Screenshot](/screenshots/output.png)
 
 
 
